@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone XS MAX",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "10",
+      "quantity": "5",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fHww",
+      "price": 1299.99,
+      "quantity": 30,
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZWFyYnVkc3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": 129.99,
+      "quantity": 100,
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnQlMjB3YXRjaHxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 249.99,
+      "quantity": 75,
+      "status": false
+    },
+    {
+      "id": 5,
+      "name": "4K TV",
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8NGslMjB0dnxlbnwwfHwwfHx8MA%3D%3D",
+      "price": 999.99,
+      "quantity": 25,
+      "status": false
+    },
+    {
+      "name": "iphone 15",
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_3.png",
+      "price": "1231231",
+      "quantity": "12",
+      "id": 6,
+      "status": false
+    }
+  ]
+}
